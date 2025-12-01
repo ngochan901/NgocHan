@@ -1,4 +1,4 @@
-# 🌸 Hi, I'm Ngọc Hân  
+# 🌸 Hi, I'm Ngọc Hân 💗  
 _Backend Developer • Java + Spring Boot • Tester • Automation Enthusiast_  
 🇻🇳 Vietnam  
 
@@ -15,8 +15,8 @@ _Backend Developer • Java + Spring Boot • Tester • Automation Enthusiast_
 ## 🌐 Connect With Me  
 | Icon | Description |
 |------|-------------|
-| <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/> | **LinkedIn** |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="30"/> | **Facebook** |
+| <a href="https://www.linkedin.com/in/ngoc-han-775042317/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a> | **LinkedIn** |
+| <a href="https://www.facebook.com/profile.php?id=61557149536301"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="30"/></a> | **Facebook** |
 
 ---
 
@@ -52,7 +52,7 @@ _Backend Developer • Java + Spring Boot • Tester • Automation Enthusiast_
 | Icon | Tech |
 |------|------|
 | <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="35"/> | **Linux** |
-| <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="35"/> | **Shell Scripts** |
+| <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="35"/> | **Shell Script** |
 | <img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="35"/> | **Automation tools** |
 
 ---
@@ -63,6 +63,15 @@ _Backend Developer • Java + Spring Boot • Tester • Automation Enthusiast_
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/> | **HTML** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> | **CSS** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/> | **Bootstrap** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="35"/> | **TailwindCSS** |
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ngochan901&show_icons=true&theme=rose" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngochan901&layout=compact&theme=rose" height="150"/>
+</p>
 
 ---
 
