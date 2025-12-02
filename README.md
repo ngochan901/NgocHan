@@ -6,7 +6,7 @@
 
 ---
 
-<!-- Typing Effect - Đã chỉnh độ rộng để không bị cắt chữ -->
+<!-- Typing Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+there!+%E2%9C%A8;Building+Backend+with+Java+%26+Spring;Passion+for+Testing+%26+Automation;Always+learning+new+things!+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -23,17 +23,17 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <!-- Facebook trước -->
+  <!-- Facebook -->
   <a href="https://www.facebook.com/ngoc.han.485951/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;
-  <!-- LinkedIn sau -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/l%C3%AA-ng%E1%BB%8Dc-h%C3%A2n-580309322/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <!-- Gmail -->
+  <!-- Gmail (Đã sửa lại link mailto) -->
   <a href="mailto:lengochan090105@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -43,7 +43,7 @@
 
 ## 💻 Technologies & Tools
 
-<!-- Backend Riêng -->
+<!-- Backend -->
 ### ☕ Backend Development
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -52,14 +52,15 @@
   <img src="https://img.shields.io/badge/Servlet-F7DF1E?style=flat-square&logo=java&logoColor=black" />
 </p>
 
-<!-- Database Riêng -->
+<!-- Database  -->
 ### 🗄️ Database Management
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-<!-- Frontend Riêng -->
+<!-- Frontend -->
 ### 🎨 Frontend & UI
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -70,23 +71,20 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
-<!-- Testing Riêng -->
+<!-- Testing  -->
 ### 🧪 Testing & QA
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Manual_Testing-E34F26?style=flat-square&logo=testcafe&logoColor=white" />
 </p>
 
-<!-- Tools Riêng -->
-### 🛠️ DevOps & Infrastructure
+<!-- Tools ) -->
+### 🛠️ Development Tools
 <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
