@@ -14,7 +14,7 @@
 <p align="center">
  🔭 <b>Working on:</b> E-Commerce & E-Learning Platforms<br>
  🌱 <b>Learning:</b> Spring Boot • ReactJS • DevOps basics<br>
- 💬 <b>Ask me about:</b> Java Core • Servlet • Linux • Automation<br>
+ 💬 <b>Ask me about:</b> Java Core • Servlet • Automation<br>
  💌 <b>Contact:</b> <a href="mailto:lengochan090105@gmail.com">lengochan090105@gmail.com</a>
 </p>
 
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <!-- Gmail (Đã sửa lại link mailto) -->
+  <!-- Gmail -->
   <a href="mailto:lengochan090105@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Servlet-F7DF1E?style=flat-square&logo=java&logoColor=black" />
 </p>
 
-<!-- Database  -->
+<!-- Database -->
 ### 🗄️ Database Management
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
-<!-- Testing  -->
+<!-- Testing -->
 ### 🧪 Testing & QA
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/Manual_Testing-E34F26?style=flat-square&logo=testcafe&logoColor=white" />
 </p>
 
-<!-- Tools ) -->
+<!-- Tools -->
 ### 🛠️ Development Tools
 <p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
