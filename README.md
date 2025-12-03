@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- AVATAR Ở ĐÂY - Bạn thay link ảnh trong src="" nhé -->
-<img src="https://i.pinimg.com/564x/d9/56/9b/d9569bbed4393e2ceb1af7ba64fdf86a.jpg" width="150" height="150" style="border-radius: 50%;" alt="Avatar"/>
+<img src="https://github.com/ngochan901.png" width="150" height="150" style="border-radius: 50%;" alt="Ngoc Han Avatar"/>
 <br/>
 
 # 🌸 Hi, I'm Ngọc Hân 💗
