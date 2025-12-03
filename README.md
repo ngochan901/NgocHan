@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- AVATAR Ở ĐÂY - Bạn thay link ảnh trong src="" nhé -->
-<img src="https://github.com/ngochan901.png" width="150" height="150" style="border-radius: 50%;" alt="Ngoc Han Avatar"/>
-<br/>
-
 # 🌸 Hi, I'm Ngọc Hân 💗
 ### _Backend Developer • Java + Spring Boot • Tester • Automation Enthusiast_
 🇻🇳 Vietnam
@@ -14,7 +10,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+there!+%E2%9C%A8;Building+Backend+with+Java+%26+Spring;Passion+for+Testing+%26+Automation;Always+learning+new+things!+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
 <p align="center">
  🌱 <b>Learning:</b> Spring Boot • DevOps basics<br>
  💬 <b>Ask me about:</b> Java Core • Servlet • Automation<br>
