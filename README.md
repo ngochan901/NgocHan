@@ -16,7 +16,6 @@
 </a>
 
 <p align="center">
- 🔭 <b>Working on:</b> E-Commerce & E-Learning Platforms<br>
  🌱 <b>Learning:</b> Spring Boot • DevOps basics<br>
  💬 <b>Ask me about:</b> Java Core • Servlet • Automation<br>
  💌 <b>Contact:</b> <a href="mailto:lengochan090105@gmail.com">lengochan090105@gmail.com</a>
@@ -54,7 +53,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Servlet-F7DF1E?style=flat-square&logo=java&logoColor=black" />
@@ -97,7 +95,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 </p>
 
 ---
